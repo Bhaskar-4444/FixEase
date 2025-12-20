@@ -1,6 +1,7 @@
+app.js
+
 /* app.js (Updated: Pricing to ₹50, removed search bar, updated policy text) */
 // Navigation History Stack for Back Button
-
 let navHistory = ['home']; // Initialize with home
 // Update history on navigation
 function updateNavHistory(page) {
